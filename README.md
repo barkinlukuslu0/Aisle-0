@@ -10,7 +10,6 @@ Here are some visual previews of the in-game :
 | :---: | :---: |
 | ![Security Room](./Images/1.png) | ![Interactable Note](./Images/2.png) |
 |  Anomalies | Anomalies |
-| :---: | :---: |
 | ![One Anomaly](./Images/3.png) | ![One Anomaly](./Images/5.png) |
 
 | End-Game |
