@@ -4,18 +4,14 @@
 Here are some visual previews of the in-game. *(Please ensure these image files are placed in `public/assets/images/` with matching filenames)*:
 
 | In-Game |
-| :---: | :---: |
+| :---: |
 | ![Security Room](./Images/1.png) | ![Interactable Note](./Images/2.png) |
 | ![Updates Timeline](./Images/3.png) |
 
 | End-Game |
-| :---: | :---: |
+| :---: | 
 | ![One Ending](./Images/4.png) | 
 
-<p align="center">
-  <b>Loading Screen</b><br>
-  <img src="./frontend/public/assets/images/loading.png" alt="Loading Screen" width="500"/>
-</p>
 
 
 [!IMPORTANT]
